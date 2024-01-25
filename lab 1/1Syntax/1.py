@@ -1,1 +1,1 @@
-print("Hello sca World")
+print("Hello World")
