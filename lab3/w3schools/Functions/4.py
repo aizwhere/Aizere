@@ -1,2 +1,2 @@
-def mu_functon(x):
+def my_function(x):
     return x + 5
